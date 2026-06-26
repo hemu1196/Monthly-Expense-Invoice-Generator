@@ -43,9 +43,6 @@ Monthly-Expense-Invoice-Generator/
 ## 🚀 Getting Started
 ### Clone the repository
 
-```bash
-git clone https://github.com/yourusername/Monthly-Expense-Invoice-Generator.git
-```
 
 ### Open the project
 Simply open
@@ -128,10 +125,8 @@ Open a Pull Request.
 
 ---
 
-## 📜 License
-
+## 📜 License 
 This project is licensed under the MIT License.
-
 ---
 
 ## 👨‍💻 Author
